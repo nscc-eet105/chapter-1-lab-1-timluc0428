@@ -1,30 +1,30 @@
-#storing poem text as variable psalm_23
-psalm_23 = "\nAdonai, my shepherd:\n \
-\tI know no need.\n \
-In lush meadows\n \
-\tyou invite my soul to rest and recline; together\n\n \
-we walk beside the dance of light on quiet waters.\n \
-\tYou give me back myself,\n \
-point me to the road toward justice,\n \
-\tone of your sacred names.\n\n \
-Even when I walk in a valley\n \
-\tdark as the shadow of death,\n \
-I know no fear, for you are near me\n \
-\twith your staff and crook, and I am safe.\n\n \
-You spread out a feast before me\n \
-\twith those who were my enemies.\n \
-You touch my head with fragrant oil;\n \
-\tmy thanks overflows.\n\n \
-May goodness and mercy\n \
-\tfollow me all the days of my life,\n \
-and may I make my home\n \
-\tin the house of the Lord forever."
+print("Adonai, my shepherd:")
+print("I know no need.")
+print("In lush meadows")
+print("you invite my soul to rest and recline; together")
+print()
 
-#storing full name as variable name
-name = "\n   Tim Lucas\n"
+print("we walk beside the dance of light on quiet waters.")
+print("You give me back myself,")
+print("point me to the road toward justice,")
+print("one of your sacred names.")
+print()
 
-#print Var psalm_23
-print(psalm_23)
+print("Even when I walk in a valley")
+print("dark as the shadow of death,")
+print("I know no fear, for you are near me")
+print("with your staff and crook, and I am safe.")
+print()
 
-#print Var name
-print(name)
+print("You spread out a feast before me")
+print("twith those who were my enemies.")
+print("You touch my head with fragrant oil;")
+print("my thanks overflows.")
+print()
+
+print("May goodness and mercy")
+print("follow me all the days of my life,")
+print("and may I make my home")
+print("in the house of the Lord forever.")
+print()
+print("  Tim Lucas")
